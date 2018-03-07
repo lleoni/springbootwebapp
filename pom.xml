@@ -7,6 +7,7 @@
 	<artifactId>spring-boot-web</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
+
 	<name>Spring Boot Web Application</name>
 	<description>Spring Boot Web Application</description>
 
